@@ -16,7 +16,6 @@ Tag.init(
       type: DataTypes.STRING,
       allowNull: false,
     },
-    // ... add more columns as needed
   },
   {
     sequelize,
