@@ -35,7 +35,6 @@ Product.init(
         isNumeric: true,
       },
     },
-    // ... add more columns as needed
   },
   {
     sequelize,
